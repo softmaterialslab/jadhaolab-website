@@ -19,9 +19,9 @@ on computational nanoengineering and simulation of soft materials. If you are in
 * 2005: M.S. Physics, University of Illinois at Urbana Champaign
 * 2003: B.S. Physics, Indian Institute of Technology, Kharagpur, India
 
-[Indiana University Profile Page](https://www.soic.indiana.edu/all-people/profile.html?profile_id=449)
+[Indiana University Profile Page](https://www.soic.indiana.edu/all-people/profile.html?profile_id=449) 
 
-[Google Scholar](https://scholar.google.com/citations?user=7m5wqk4AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=7m5wqk4AAAAJ&hl=en) 
 
 [CV](https://drive.google.com/file/d/0B7yydcOo-gYsYWFOMjFTLVUwSmM/view)
 
