@@ -11,13 +11,6 @@ on computational nanoengineering and simulation of soft materials. If you are in
 
 ### Principle Investigator:
 #### Vikram Jadhao
-* 2016-Present: Assistant Professor, Intelligent Systems Engineering, Indiana University
-* 2016-Present: Visiting Scientist, Physics and Astronomy, The Johns Hopkins University
-* 2014-2016: Postdoctoral Fellow, The Johns Hopkins University
-* 2010-2014: Postdoctoral Fellow, Northwestern University
-* 2010: Ph.D. Physics, University of Illinois at Urbana-Champaign
-* 2005: M.S. Physics, University of Illinois at Urbana Champaign
-* 2003: B.S. Physics, Indian Institute of Technology, Kharagpur, India
 
 [Indiana University Profile Page](https://www.soic.indiana.edu/all-people/profile.html?profile_id=449)
 
