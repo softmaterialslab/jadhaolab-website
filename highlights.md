@@ -14,8 +14,7 @@ layout: default
 * General approach to construct free-energy functionals for physical systems (2013)
 ![ALT text](/assets/img/figure.png)
 
-* On-the-fly computation of polarization effects in the simulation of ions near nanoparticles or biomacromolecules 
- (2012)
+* On-the-fly computation of polarization effects in the simulation of ions near nanoparticles (2012)
 ![ALT text](/assets/img/picture2.png)
 
 </div>
