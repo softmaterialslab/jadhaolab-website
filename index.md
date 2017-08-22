@@ -6,14 +6,7 @@ layout: default
         <div class="text"><p>The aim of our research group is to understand the shape, assembly and flow properties of soft materials at the nanoscale to advance their design for medical, environmental, and energy applications. We develop and investigate computational models of soft materials including deformable nanoparticles, biomimetic membranes, self-assembled nanostructures, and glass-forming liquids using analytical techniques and simulation methods powered by high-performance computing resources.</p></div>
     </div>
 </div>
-<div class="breakout bg-crimson bg-dark section" id="">
-    <div class="row">
-        <div class="layout">
-            <div class="callout">
-                <div class="content"><p>Current projects include:
+Current projects include:
 * Exploring electrostatics-driven shape deformation and assembly in biomimetic systems
 * Investigating the structure of ions under nanoscale confinement
-* Characterizing the flow properties of glass-forming materials.</p></div>
-            </div>
-        </div><!-- /.layout --></div>
-</div>
+* Characterizing the flow properties of glass-forming materials
