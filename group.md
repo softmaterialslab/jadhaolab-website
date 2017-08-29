@@ -6,7 +6,7 @@ layout: default
 
 <div class="row" markdown="1">
 
-### Principle Investigator:
+### Principal Investigator:
 #### Vikram Jadhao
 
 [Indiana University Profile Page](https://www.soic.indiana.edu/all-people/profile.html?profile_id=449)
