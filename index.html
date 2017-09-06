@@ -64,6 +64,16 @@
         <ul id="mobile-nav">
             <li><a class="main-menu" href="#">Menu</a></li>
         </ul>
+        <script>var jsBase = "https://www.soic.indiana.edu/";</script>
+        <script>
+            $('.nav-horizontal').each(function () {
+                var elem = $(this);
+                var url = $(this).attr(jsBase + data - url);
+                $.getJSON(url, function (data) {
+                    elem.html(data);
+                });
+            });
+        </script>
 
     </div>
 </div>
@@ -79,6 +89,18 @@
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </div>
+</div>
+
+<!-- Section Navigation -->
+<div class="section-nav"><a class="title" href="#">Section Navigation</a>
+    <ul class="nav-vertical nav-links">
+        <li><a href="news/index.html">News</a></li>
+        <li><a href="undergraduate/index.html">Undergraduate</a></li>
+        <li><a href="graduate/index.html">Graduate</a></li>
+        <li><a href="research/index.html">Research</a></li>
+        <li><a href="people/index.html">People</a></li>
+        <li><a href="contact/index.html">Contact Us</a></li>
+    </ul>
 </div>
 
 <div id="main-wrap">
