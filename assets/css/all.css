@@ -1,0 +1,83 @@
+/*************************************************
+ * Site Name: IU Template (Responsive)
+ *
+ * Description: Media Queries stylesheet
+ * Version: 1.0
+ * Author: IU Communications
+ * Author URI: http://communications.iu.edu
+ ************************************************/
+
+/* 480px (480/16) */
+@import url("480.css") screen and (min-width: 30.000em);
+
+/* 600px (600/16) */
+@import url("600.css") screen and (min-width: 37.500em);
+
+/* 768px (768/16) */
+@import url("768.css") screen and (min-width: 48.000em);
+
+/* 980px (980/16) - 960+20 for FF, IE, Opera d/t rounding */
+@import url("960.css") screen and (min-width: 61.250em);
+
+/* 480px (480/16) */
+@media screen and (max-width: 30.000em) {
+
+	/****************************************
+	 * Content
+	 ****************************************/
+
+	/*** Tables ***/
+
+    #content table {
+        width: 100%;
+    }
+    #content table th,
+    #content table td {
+		border: none;
+        display: block;
+    }
+	#content table thead th {
+		border-left: none;
+	}
+
+}
+
+/* 1px (1/16) */
+@media screen and (min-width: 0.063em) {
+	body:after {
+		content: 'min-width-1';
+		display: none;
+	}
+}
+
+/* 480px (480/16) */
+@media screen and (min-width: 30.000em) {
+	body:after {
+		content: 'min-width-480';
+		display: none;
+	}
+}
+
+/* 600px (600/16) */
+@media screen and (min-width: 37.500em) {
+	body:after {
+		content: 'min-width-600';
+		display: none;
+	}
+}
+
+/* 768px (768/16) */
+@media screen and (min-width: 48.000em) {
+	body:after {
+		content: 'min-width-768';
+		display: none;
+	}
+}
+
+/* 980px (980/16) - 960+20 for FF, IE, Opera d/t rounding */
+@media screen and (min-width: 61.250em) {
+	body:after {
+		content: 'min-width-960';
+		display: none;
+	}
+}
