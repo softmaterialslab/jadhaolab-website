@@ -24,7 +24,7 @@
     <script src="assets/js/scripts.js" type="text/javascript"></script>
     <script src="assets/js/local.js" type="text/javascript"></script>
 
-    <script src="//assets.iu.edu/web/0.1.1/js/global.js" type="text/javascript"></script>
+    <script src="https://assets.iu.edu/web/0.1.1/js/global.js" type="text/javascript"></script>
 
     <link href="https://assets.iu.edu/brand/latest/brand.css" rel="stylesheet" type="text/css"/>
 
@@ -58,12 +58,22 @@
     <div id="header-wrap-inner">
 
         <div id="header">
-            <h1>Jadhao Research Group</h1>
+            <h1><a href="https://jadhaolab.engineering.indiana.edu/">Jadhao Research Group</a></h1>
         </div>
 
         <ul id="mobile-nav">
             <li><a class="main-menu" href="#">Menu</a></li>
         </ul>
+        <script>var jsBase = "https://www.soic.indiana.edu/";</script>
+        <script>
+            $('.nav-horizontal').each(function () {
+                var elem = $(this);
+                var url = $(this).attr(jsBase + data - url);
+                $.getJSON(url, function (data) {
+                    elem.html(data);
+                });
+            });
+        </script>
 
     </div>
 </div>
@@ -80,8 +90,9 @@
         </ul>
     </div>
 </div>
-<br>
+
 <div id="main-wrap">
+    <br>
     <div id="main">
         <div id="content-outer-wrap">
             <div class="parent clearfix">
